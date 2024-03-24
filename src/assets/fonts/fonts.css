@@ -1,0 +1,22 @@
+.custom-font-h1 {
+    font-family: "Gill Sans", Ubuntu;  }
+.custom-font-h2 {
+    font-family: serif;
+  }
+.custom-font-h3 {
+    font-family: system-ui;
+  }
+.custom-font-p {
+    font-family: cursive;
+  }
+
+  .custom-links{
+    font-weight: bold;
+    /* text-decoration: underline; */
+  }
+  .custom-links:hover{
+    background-color: #e5e5e5;
+    border-radius: 8px;
+
+  }
+
