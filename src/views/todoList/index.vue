@@ -4,8 +4,8 @@
 
     <section class="card m-3 p-4">
       <div>
-        <div class="row">
-          <div class="col-7">
+        <div class="row g-5">
+          <div class="col-md-7 col-12">
             <div class="h-100">
               <div
                 class="d-flex justify-content-right align-items-center gap-10"
@@ -51,7 +51,7 @@
               </div>
             </div>
           </div>
-          <div class="col-5">
+          <div class="col-md-5 col-12">
             <div class="h-100">
               <h5 class="mb-0">{{ formHeading }}</h5>
               <hr />
