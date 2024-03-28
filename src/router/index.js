@@ -40,6 +40,10 @@ const router = createRouter({
       path: '/todo-list/edit/:id',
       name: 'todoEdit',
       component: () => import('../views/todoList/edit.vue')
+    },{
+      path: '/task',
+      name: 'task',
+      component: () => import('../views/task.vue')
     }
   ]
 })
